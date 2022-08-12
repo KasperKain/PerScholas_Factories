@@ -38,7 +38,7 @@ class BadGuyFactory {
 let skeletonFactory = new BadGuyFactory('Skeleton');
 
 // We create a new object the very same way we did before. No difference there.
-// This object has two properties, 'type' and 'badGuyCollection'.
+// This object has two properties, 'factoryType' and 'badGuyCollection'.
 // Since we want this particular factory to only produce one type of enemy, we will need to specify which type.
 // In this case, We have decided the type of enemy we produce will be a 'Skeleton'.
 // The badGuyCollection property is an array. We will get to that later. For now let's print what we have!
