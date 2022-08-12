@@ -66,6 +66,7 @@ console.log(skeletonFactory);
 
 // Lets make some skeletons!
 
+skeletonFactory.makeNewBadGuy(100, 100, 'Hey you guys!');
 skeletonFactory.makeNewBadGuy(4, 12, 'Urgghh...');
 skeletonFactory.makeNewBadGuy(6, 10, 'AHH!!');
 skeletonFactory.makeNewBadGuy(3, 8, 'blehh...');
