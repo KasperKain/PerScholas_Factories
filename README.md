@@ -4,4 +4,3 @@
 * Read through factoryEx1.js and run it _(node factoryEx1.js)_
 * Read through factoryEx2.js and run it _(node factoryEx2.js)_
 * Alter whatever you see fit for your amusement and practice
-* some stuff here
